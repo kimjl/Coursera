@@ -1,2 +1,0 @@
-# Coursera
-Python Coursera Code
